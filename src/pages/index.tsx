@@ -253,10 +253,10 @@ export default function Home() {
                             <span className="animate-wave inline-block transform origin-bottom-right">👋</span> Hi! Welcome, I'm
                         </h3>
                         <h1 className="font-baloo text-6xl md:text-8xl" data-aos="bounce">
-                            Rafly Maulana
+                            Rafly Bay Haqqy
                         </h1>
                         <p className="font-comfortaa text-lg" data-aos="fadeIn">
-                            A <b>fullstack developer</b>, <b>designer</b>, and <b>producer</b>, from <span className="text-red-600">Indonesia</span>.
+                            A <b>DevOps Engginer</b>, <b>Programmer</b>, and <b>Cloud Engginer</b>, from <span className="text-red-600">Indonesia</span>.
                         </p>
                         <Link href="#about" passHref={true}>
                             <button className="btn bg-theme-green-dark text-white mt-8" data-aos="fadeIn">
