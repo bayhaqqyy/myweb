@@ -35,14 +35,14 @@ const Projects = () => {
             href: "https://www.behance.net/gallery/127122741/Project-V2-Portfolio-Website-Design",
             type: "Fullstack Development",
             image: "/images/projects/RaflyMaulanaV2.webp",
-            title: "Rafly Maulana V2",
+            title: "Rafly V2",
             description: "2nd version of my portofolio site",
         },
         {
             href: "https://www.behance.net/gallery/127108847/Project-V1-Portfolio-Web-Design",
             type: "Frontend Development",
             image: "/images/projects/RaflyMaulanaV1.webp",
-            title: "Rafly Maulana V1",
+            title: "Rafly V1",
             description: "1st version of my portofolio site",
         },
         {
